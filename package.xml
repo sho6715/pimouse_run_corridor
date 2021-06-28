@@ -50,7 +50,7 @@
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
-  <run_depend>rospy</run_depend>
+  <exec_depend>rospy</exec_depend>
   <exec_depend>pimouse_ros</exec_depend>
 
 
